@@ -16,6 +16,8 @@ Enviar un prompt
 
 Recibir la respuesta del modelo
 
+<img width="1561" height="771" alt="image" src="https://github.com/user-attachments/assets/d56fd3e4-22f8-40bb-ba64-0489da95430c" />
+
 
 Ejecución
 python ejercicio1.py
